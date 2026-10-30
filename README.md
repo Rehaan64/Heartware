@@ -12,7 +12,7 @@ Features
 
 ---
 
-Getting Started
+## Getting Started
 
 ### Option 1: Download Pre-built Binary (Recommended)
 1. Head over to the [Releases](../../releases) page.
